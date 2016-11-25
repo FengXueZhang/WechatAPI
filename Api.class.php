@@ -442,7 +442,6 @@ class Api
     /**
      * 缓存方法.
      *
-     *
      * @date   2015-07-29
      *
      * @param string $name    缓存名
